@@ -1,0 +1,18 @@
+.card {
+  padding: 10px;
+  background-color: beige;
+  border-radius: 5px;
+  align-items: center;
+  overflow: hidden;
+}
+
+.card-image {
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
