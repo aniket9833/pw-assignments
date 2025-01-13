@@ -1,0 +1,27 @@
+Q2. Explain the role of the following key properties in the Flexbox layout modes
+1. justify-content
+2. align-items
+3. gap
+4. flex-direction
+5. flex-wrap
+
+Ans:
+1. justify-content: This property aligns the flex items along the main axis (horizontally by default). It defines the distribution of space between and around content items.
+
+Examples: flex-start, flex-end, center, space-between, space-around, space-evenly.
+
+2. align-items: This property aligns the flex items along the cross axis (vertically by default). It determines how the items are laid out within a container.
+
+Examples: stretch, flex-start, flex-end, center, baseline.
+
+3. gap: This property defines the spacing between flex items. It's like setting margin around every flex item.
+
+Examples: gap: 10px;, gap: 1rem;.
+
+4. flex-direction: This property defines the direction of the main axis. It controls the direction in which the flex items are placed in the flex container.
+
+Examples: row, row-reverse, column, column-reverse.
+
+5. flex-wrap: This property controls whether the flex container is single-line or multi-line, and the direction the new lines are stacked.
+
+Examples: nowrap, wrap, wrap-reverse.
